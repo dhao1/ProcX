@@ -6,8 +6,8 @@ with open("README.md", encoding="utf-8") as f:
 setup(
     name="procx",
     version="0.1.1",
-    author="Your Name",
-    author_email="your@email.com",
+    author="Duxiao Hao",
+    author_email="dhao1@binghamton.edu",
     description="Object-Centric and Explainable Process Mining",
     long_description=long_description,
     long_description_content_type="text/markdown",
